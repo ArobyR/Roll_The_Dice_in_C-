@@ -12,4 +12,4 @@
     3. If the sum of both is an even number different from 12 then you lose and the game is over.
 ---
 ## Screenshot
-![](./docs/screenshot.png)
+![](./docs/screenshot.PNG "image")
