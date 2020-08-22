@@ -12,3 +12,4 @@
 ---
 ## Screenshot
 ![](./TheMagicDice.png "Image")
+![](TheMagicDice.png "Image")
